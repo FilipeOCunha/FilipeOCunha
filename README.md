@@ -92,14 +92,6 @@ Atualmente estou trabalhando na construção de novos projetos para colocar em p
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FilipeOCunha\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeOCunha&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 🌐 Onde me encontrar
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/FilipeOCunha)
